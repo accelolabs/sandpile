@@ -2,6 +2,8 @@
 
 Реализация упрощенной [модели песчаной кучи](https://en.wikipedia.org/wiki/Abelian_sandpile_model) с возможностью сохранять состояния в изображение в [формате BMP](https://en.wikipedia.org/wiki/BMP_file_format). 
 
+![](avalanche_1549.bmp)
+
 
 
 ## Что умеет?
